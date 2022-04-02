@@ -1,14 +1,14 @@
 {
   "name": "learn-cheerio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Scrapping example for learing Purpose",
   "main": "index.js",
   "scripts": {
     "test": "nodemon app.js",
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "V A NUJOOM",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.26.1",
