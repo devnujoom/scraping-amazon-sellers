@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "nodemon app.js",
-    "start":"node app.js"
-
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +13,10 @@
   "dependencies": {
     "axios": "^0.26.1",
     "cheerio": "^1.0.0-rc.10",
+    "csv-parse": "^5.0.4",
+    "csv-stringify": "^6.0.5",
+    "json-2-csv": "^3.17.0",
+    "node-csv": "^0.1.2",
     "nodemon": "^2.0.15",
     "pretty": "^2.0.0"
   }
